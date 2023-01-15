@@ -1,0 +1,15 @@
+D:\programisy\C#\Массив\Task2\bin\Debug\net6.0\Task2.exe
+D:\programisy\C#\Массив\Task2\bin\Debug\net6.0\Task2.deps.json
+D:\programisy\C#\Массив\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+D:\programisy\C#\Массив\Task2\bin\Debug\net6.0\Task2.dll
+D:\programisy\C#\Массив\Task2\bin\Debug\net6.0\Task2.pdb
+D:\programisy\C#\Массив\Task2\obj\Debug\net6.0\Task2.csproj.AssemblyReference.cache
+D:\programisy\C#\Массив\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\programisy\C#\Массив\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+D:\programisy\C#\Массив\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+D:\programisy\C#\Массив\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+D:\programisy\C#\Массив\Task2\obj\Debug\net6.0\Task2.dll
+D:\programisy\C#\Массив\Task2\obj\Debug\net6.0\refint\Task2.dll
+D:\programisy\C#\Массив\Task2\obj\Debug\net6.0\Task2.pdb
+D:\programisy\C#\Массив\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+D:\programisy\C#\Массив\Task2\obj\Debug\net6.0\ref\Task2.dll

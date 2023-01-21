@@ -1,0 +1,15 @@
+E:\programisy\C#\Массив\Task4\bin\Debug\net6.0\Task4.exe
+E:\programisy\C#\Массив\Task4\bin\Debug\net6.0\Task4.deps.json
+E:\programisy\C#\Массив\Task4\bin\Debug\net6.0\Task4.runtimeconfig.json
+E:\programisy\C#\Массив\Task4\bin\Debug\net6.0\Task4.dll
+E:\programisy\C#\Массив\Task4\bin\Debug\net6.0\Task4.pdb
+E:\programisy\C#\Массив\Task4\obj\Debug\net6.0\Task4.csproj.AssemblyReference.cache
+E:\programisy\C#\Массив\Task4\obj\Debug\net6.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+E:\programisy\C#\Массив\Task4\obj\Debug\net6.0\Task4.AssemblyInfoInputs.cache
+E:\programisy\C#\Массив\Task4\obj\Debug\net6.0\Task4.AssemblyInfo.cs
+E:\programisy\C#\Массив\Task4\obj\Debug\net6.0\Task4.csproj.CoreCompileInputs.cache
+E:\programisy\C#\Массив\Task4\obj\Debug\net6.0\Task4.dll
+E:\programisy\C#\Массив\Task4\obj\Debug\net6.0\refint\Task4.dll
+E:\programisy\C#\Массив\Task4\obj\Debug\net6.0\Task4.pdb
+E:\programisy\C#\Массив\Task4\obj\Debug\net6.0\Task4.genruntimeconfig.cache
+E:\programisy\C#\Массив\Task4\obj\Debug\net6.0\ref\Task4.dll

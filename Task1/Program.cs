@@ -1,6 +1,6 @@
 ﻿// Функция заполнения массива с рандомными данными и функция вывод на экран и функция запись в файл, с костылём
 
-int[] CreateRandomArray(int N, int start, int end)   // В скобках указываются элементы которые будут обрабатываться, "Для функции "приготовить яйца", нужны яйца, сковородка, масло"
+int[] CreateRandomArray(int N, int start, int end)   // Метод заполнения массива. В скобках указываются элементы которые будут обрабатываться, "Для функции "приготовить яйца", нужны яйца, сковородка, масло"
 {
     int[] RandomArray = new int[N];  // Задаем массив в котором будут лежать значения, и определяем его длину. метод new - выделение динамической памяти
     for (int i = 0; i < N; i++)   // цикл. обрабатывает значения от i < N
@@ -10,20 +10,20 @@ int[] CreateRandomArray(int N, int start, int end)   // В скобках ука
     return RandomArray; // возвращяем заполненный масссив RandomArray
 }
 
-string NamberToString(int[] arrayres) // Функция Костыль для перевода числового массива в строковый
+string NamberToString(int[] arrayres) // Метод Костыль для перевода числового массива в строковый
 {
     string strigres = string.Join(string.Empty, arrayres); //метод для объединения элементов массива с разделителем
 
     return strigres;
 }
 
-void WritingToFile(string res) //Функция записи пезультата в файл
+void WritingToFile(string res) // Метод записи пезультата в файл
 {
 string path = @"file.txt"; // Создаём файл
 File.WriteAllText(path, res); // метод файлового класса, который используется для создания нового файла. Чертовка не работает с маиссивом из числовых значений int, нужно переделывать весь код на строку
 }
 
-void ShowArray(int[] array) // Функция вывода на экран массив RandomArray[i]
+void ShowArray(int[] array) // Метод вывода на экран массив RandomArray[i]
 {
     for (int i = 0; i < array.Length; i++)
     {

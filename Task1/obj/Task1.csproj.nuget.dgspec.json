@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\programisy\\C#\\Массив\\Task1\\Task1.csproj": {}
+    "E:\\programisy\\C#\\Массив\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "D:\\programisy\\C#\\Массив\\Task1\\Task1.csproj": {
+    "E:\\programisy\\C#\\Массив\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\programisy\\C#\\Массив\\Task1\\Task1.csproj",
+        "projectUniqueName": "E:\\programisy\\C#\\Массив\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "D:\\programisy\\C#\\Массив\\Task1\\Task1.csproj",
+        "projectPath": "E:\\programisy\\C#\\Массив\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\Артём\\.nuget\\packages\\",
-        "outputPath": "D:\\programisy\\C#\\Массив\\Task1\\obj\\",
+        "outputPath": "E:\\programisy\\C#\\Массив\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Артём\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }
